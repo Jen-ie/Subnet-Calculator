@@ -1,6 +1,6 @@
 """
 Subnet Calculator
-subnet mask in binary
+Calculates the subnet mask in binary,
 broadcast address,
 wildcard mask
 number of usable host addresses
